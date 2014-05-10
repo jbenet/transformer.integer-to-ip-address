@@ -1,0 +1,8 @@
+{
+ "@context": "http://transformer.io/context/transformer.jsonld",
+ "type": "conversion",
+ "input": "integer",
+ "output": "ip-address",
+ "id": "integer-to-ip-address",
+ "description": "integer to ip-address"
+}
